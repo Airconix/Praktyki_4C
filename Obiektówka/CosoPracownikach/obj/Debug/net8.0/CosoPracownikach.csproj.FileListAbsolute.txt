@@ -1,0 +1,14 @@
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\obj\Debug\net8.0\CosoPracownikach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\obj\Debug\net8.0\CosoPracownikach.AssemblyInfoInputs.cache
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\obj\Debug\net8.0\CosoPracownikach.AssemblyInfo.cs
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\obj\Debug\net8.0\CosoPracownikach.csproj.CoreCompileInputs.cache
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\bin\Debug\net8.0\CosoPracownikach.exe
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\bin\Debug\net8.0\CosoPracownikach.deps.json
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\bin\Debug\net8.0\CosoPracownikach.runtimeconfig.json
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\bin\Debug\net8.0\CosoPracownikach.dll
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\bin\Debug\net8.0\CosoPracownikach.pdb
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\obj\Debug\net8.0\CosoPracownikach.dll
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\obj\Debug\net8.0\refint\CosoPracownikach.dll
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\obj\Debug\net8.0\CosoPracownikach.pdb
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\obj\Debug\net8.0\CosoPracownikach.genruntimeconfig.cache
+C:\Users\wsnia\source\repos\CosoPracownikach\CosoPracownikach\obj\Debug\net8.0\ref\CosoPracownikach.dll
